@@ -2,7 +2,7 @@
 using System.Reflection.Metadata.Ecma335;
 
 
- class  World
+ class  HelloJava
 {
     void printHelloWorld(){
 Console.WriteLine("Hello, World!");
