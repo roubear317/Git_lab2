@@ -14,4 +14,8 @@ class iti{
 Console.WriteLine("Hello, ITI!");
     }
 
+     void printHelloGit(){
+Console.WriteLine("Hello, git!");
+    }
+
 }
