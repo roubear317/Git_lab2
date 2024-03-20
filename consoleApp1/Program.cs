@@ -9,8 +9,10 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("mina");
 Console.WriteLine("Roubear");
     }
+
    
 }
+
 class iti{
   void printHelloITI(){
 Console.WriteLine("Hello, ITI!");
@@ -18,6 +20,10 @@ Console.WriteLine("Hello, ITI!");
 
      void printHelloGit(){
 Console.WriteLine("Hello, git!");
+    }
+
+    void PrintHelloFromBranch(){
+      Console.WriteLine("Hello from branch");
     }
 
 }
